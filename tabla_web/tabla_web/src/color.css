@@ -1,0 +1,11 @@
+.table-bordered{
+    background-color: red;
+   
+}
+.table-primary {
+    background-color: rgb(14, 14, 203);
+}
+
+.table-danger{
+    background-color: red ;
+}
